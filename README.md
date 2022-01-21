@@ -31,6 +31,7 @@ No modules.
 |------|-------------|------|---------|:--------:|
 | <a name="input_domain_name"></a> [domain\_name](#input\_domain\_name) | n/a | `string` | `"joshuamkite.com"` | no |
 | <a name="input_region"></a> [region](#input\_region) | n/a | `string` | `"us-east-1"` | no |
+| <a name="input_tags"></a> [tags](#input\_tags) | n/a | `map(string)` | <pre>{<br>  "Owner": "Joshua",<br>  "Project": "aws_acm_certificate_joshuamkite.com",<br>  "repo": "git@github.com:joshuamkite/aws_acm_certificate_joshuamkite.com.git"<br>}</pre> | no |
 
 ## Outputs
 
